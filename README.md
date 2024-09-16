@@ -53,7 +53,7 @@ Open the index.html file in your web browser to view the application.
 
 ### Challenges and Solutions
 - Index Issue: I faced challenges with managing the index of images. This was resolved by implementing a method to dynamically create and manage image boxes, ensuring that each image's index is handled correctly.
-- Dynamic Creation: The project avoids using React, managing all dynamic content creation and manipulation through  JavaScript and CSS Contributing
+- Dynamic Creation: The project managing all dynamic content creation and manipulation through  JavaScript and CSS Contributing
 - If you have any suggestions or improvements, please feel free to contribute by creating a pull request or submitting an issue.
 
 
