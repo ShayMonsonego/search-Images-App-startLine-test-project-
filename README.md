@@ -10,7 +10,7 @@ HTML
 CSS
 JavaScript
 ### Note: This project does not utilize React or any CSS frameworks, and the design is handled purely with CSS and JavaScript. The decision to avoid media queries was intentional. Instead, I used percentage-based sizing 
- ## for responsiveness, as it was my first time working on a responsive design and I aimed to understand how different elements adapt to various screen sizes through percentage calculations.
+for responsiveness, as it was my first time working on a responsive design and I aimed to understand how different elements adapt to various screen sizes through percentage calculations.
 
 ### Features
 Image Search: Users can search for images using the Pixabay API.
