@@ -1,9 +1,12 @@
 # search-Images-App-startLine-test-project-
 
 ### Project Overview
-This project is a web application developed for the first time using JavaScript, CSS, and HTML. The application serves as a dynamic gallery where users can search for and view images from Pixabay, with functionality to add images to favorites. This is my initial attempt at implementing a responsive design using CSS, as well as my first experience working with JavaScript, having previously worked primarily with Java, C, and Python during my studies.
- introduction
-This project is a web application developed for the first time using JavaScript, CSS, and HTML. The application serves as a dynamic gallery where users can search for and view images from Pixabay, with functionality to add images to favorites. This is my initial attempt at implementing a responsive design using CSS, as well as my first experience working with JavaScript, having previously worked primarily with Java, C, and Python during my studies.
+This project is a web application developed for the first time using JavaScript, CSS, and HTML. 
+The application serves as a dynamic gallery where users can search for and view images from Pixabay, with functionality to add images to favorites. 
+### This is my initial attempt at implementing a responsive design using CSS, as well as my first experience working with JavaScript, having previously worked primarily with Java, C, and Python during my studies introduction
+This project is a web application developed for the first time using JavaScript, CSS, and HTML.
+The application serves as a dynamic gallery where users can search for and view images from Pixabay, with functionality to add images to favorites. 
+This is my initial attempt at implementing a responsive design using CSS, as well as my first experience working with JavaScript, having previously worked primarily with Java, C, and Python during my studies.
 
 ### Technologies Used
 HTML
