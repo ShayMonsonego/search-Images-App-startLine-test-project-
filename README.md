@@ -5,14 +5,14 @@ This project is a web application developed for the first time using JavaScript,
  introduction
 This project is a web application developed for the first time using JavaScript, CSS, and HTML. The application serves as a dynamic gallery where users can search for and view images from Pixabay, with functionality to add images to favorites. This is my initial attempt at implementing a responsive design using CSS, as well as my first experience working with JavaScript, having previously worked primarily with Java, C, and Python during my studies.
 
-###Technologies Used
+### Technologies Used
 HTML
 CSS
 JavaScript
-###Note: This project does not utilize React or any CSS frameworks, and the design is handled purely with CSS and JavaScript. The decision to avoid media queries was intentional. Instead, I used percentage-based sizing 
- ###for responsiveness, as it was my first time working on a responsive design and I aimed to understand how different elements adapt to various screen sizes through percentage calculations.
+### Note: This project does not utilize React or any CSS frameworks, and the design is handled purely with CSS and JavaScript. The decision to avoid media queries was intentional. Instead, I used percentage-based sizing 
+ ## for responsiveness, as it was my first time working on a responsive design and I aimed to understand how different elements adapt to various screen sizes through percentage calculations.
 
-###Features
+### Features
 Image Search: Users can search for images using the Pixabay API.
 Dynamic Content Creation: Images and associated data are dynamically created and managed through JavaScript without using React.
 Favorites Management: Users can add images to a favorites list.
@@ -22,10 +22,10 @@ Installation and Setup
 Clone the Repository
 
 
-###Open the Project
+### Open the Project
 Open the index.html file in your web browser to view the application.
 
-###Usage
+### Usage
 Search for Images
 Enter a search term in the input box and press the "Search" button.
 View and Interact
@@ -50,7 +50,7 @@ Modal Management: Handles the display and content update of modal windows.
 Favorites Management: Adds and manages a list of favorite images.
 Special Note: This is my first implementation of responsive design using percentage-based layouts and pure JavaScript. While media queries are a common approach, I opted for this method to better understand and handle responsiveness at a fundamental level. Additionally, this project represents my initial foray into using JavaScript, given my prior background in Java, C, and Python. I did not use ChatGPT or any external designs from the internet; the entire design was crafted manually, line by line.
 
-###Challenges and Solutions
+### Challenges and Solutions
 Index Issue: I faced challenges with managing the index of images. This was resolved by implementing a method to dynamically create and manage image boxes, ensuring that each image's index is handled correctly.
 Dynamic Creation: The project avoids using React, managing all dynamic content creation and manipulation through vanilla JavaScript and CSS.
 Contributing
