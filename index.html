@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>test app startline</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+
+<body>
+<div class ="mainConte">
+    <header>
+        <div class ="HeaderConte">
+            <i class="fa fa-star starIcon" id="displayFavoriteButton"></i>
+            <div class="headerText">
+                <h1><span>Well</span>come T<span>o</span> Start<span>Line</span> Test </h1>
+                <p>Welcome to the StartLine Test app!<br> Use this application to explore various categories and find interesting images <br>Use the search functionality to quickly locate what you're looking for and interact with the results</p>
+            </div>
+            <div class="mainSearch">
+                <input type="search" id="searchImageInput" placeholder="search....">
+                <button type="submit" class ="ganeralBtn" id ="searchMainButton">click Here</button>
+            </div>
+
+            <div class="defaultTags">
+                <button class ="catagoryBtn" data-category ="animals">Animals</button>
+                <button class ="catagoryBtn" data-category ="travels">Travels</button>
+                <button class ="catagoryBtn" data-category ="flags">Flags</button>
+                <button class ="catagoryBtn" data-category ="sport">Sports</button>
+                <button class ="catagoryBtn" data-category ="food">Food</button>
+            </div>
+
+            <h2>Your Results:</h2>
+        </div>
+
+    </header>
+
+
+
+
+    <main>
+        <div class = "imageBoxContainer" id="imageBoxContainer">
+            <div class = "items" id="item"></div>
+            <button class="loadMoreButton" id="loadMoreButton">Load More</button>
+
+        </div>
+
+    </main>
+
+
+
+    <div class = "model" id="modelId">
+
+        <div class = "modelContent">
+            <i class="fa fa-close" id="closeButton"></i>
+            <h3> </h3>
+            <p></p>
+
+            <img src="">
+            <button class="loadMoreButton" id="addTofavoriteButton">Add Image To Favorite!</button>
+        </div>
+
+    </div>
+
+
+</div>
+</div>
+<script src="logic.js"></script>
+
+</body>
+</html>
