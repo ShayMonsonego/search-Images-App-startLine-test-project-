@@ -13,14 +13,11 @@ JavaScript
 for responsiveness, as it was my first time working on a responsive design and I aimed to understand how different elements adapt to various screen sizes through percentage calculations.
 
 ### Features
-Image Search: Users can search for images using the Pixabay API.
-Dynamic Content Creation: Images and associated data are dynamically created and managed through JavaScript without using React.
-Favorites Management: Users can add images to a favorites list.
-Modal View: Clicking an image opens a modal with additional details.
-Responsive Design: Achieved through percentage-based layout rather than media queries, as an initial approach to responsiveness.
-Installation and Setup
-Clone the Repository
-
+- ## Image Search: Users can search for images using the Pixabay API.
+- ## Dynamic Content Creation: Images and associated data are dynamically created and managed through JavaScript without using React.
+- ## Favorites Management: Users can add images to a favorites list.
+- ## Modal View: Clicking an image opens a modal with additional details.
+- ## Responsive Design: Achieved through percentage-based layout rather than media queries, as an initial approach to responsiveness.
 
 ### Open the Project
 Open the index.html file in your web browser to view the application.
